@@ -1,4 +1,7 @@
-HTML, advanced
+HTML ADVANCED
+
+In this project, we set up a basic index.html file. We start with a plain HTML skeleton and add the necessary headers, footers, and links.
+
 Concepts
 For this project, we expect you to look at these concepts:
 
